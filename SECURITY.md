@@ -16,7 +16,7 @@ Security updates apply to actively maintained releases. Medical research project
 
 **Critical for infra projects**: Report responsibly to protect engaged systems. Do not disclose publicly.
 
-- Email: [security@yourproject.org] (preferred for PHI concerns)
+- Email: Author's mail-box only ...
 - Include: vulnerability type (e.g., data leak, injection), repro steps, affected code/files, PHI exposure risk, HIPAA/GDPR impact
 - PGP key: [your-key] (optional)
 
